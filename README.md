@@ -23,7 +23,7 @@ The primary objective of the Smart Zebra Crossing project is to create a dynamic
 </div>
 
 <div id="component">
-<h1>Components</h1>
+<h2>Components</h2>
 <ol>
 <li>Servo Motor</li>
 <li>Arduino</li>
