@@ -32,3 +32,18 @@ The primary objective of the Smart Zebra Crossing project is to create a dynamic
 
 </ol>
 </div>
+
+<div id="Working">
+<p>
+<h2>Working Principle</h2>
+<ul>
+<li>Automatic Rotation of Paths:The project uses the servo motors and DC motors to create rotating paths that adjust based on the presence of pedestrians and vehicles. When a pedestrian is detected, the path rotates to provide a safe crossing. Similarly, the system ensures that vehicles are given the crossing path when no pedestrians are detected.</li>
+
+<li>Gas Detection:The gas sensor continuously monitors the air for the presence of harmful gases such as CO or smoke. If dangerous gases are detected, the system automatically triggers actions such as turning off traffic lights or rotating the path to guide pedestrians away from potentially hazardous areas.</li>
+
+<li>Response to Environmental Factors:The system can adjust its behavior based on real-time readings from the gas sensor. For instance, if harmful gas levels exceed a safe threshold, the system may trigger safety alarms or activate an emergency mode to protect the public.</li>
+
+<li>Pedestrian and Vehicle Detection:Additional sensors, such as ultrasonic sensors, could be added to detect the presence of pedestrians and vehicles. Based on the sensor inputs, the servo motors and DC motors will adjust the paths accordingly.</li>
+<ul>
+</p>
+</div>
