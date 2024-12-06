@@ -47,3 +47,8 @@ The primary objective of the Smart Zebra Crossing project is to create a dynamic
 <ul>
 </p>
 </div>
+
+<div class="image">
+<h2>Circuit Diagram</h2>
+<img src="Screenshot 2024-12-06 181442.jpg">
+</div>
